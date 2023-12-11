@@ -1,5 +1,5 @@
 import time
-
+import cctx
 
 
 exchangesData = {
