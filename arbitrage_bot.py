@@ -1,3 +1,4 @@
+var ccxt = require ('ccxt')
 import time
 import ccxt
 
